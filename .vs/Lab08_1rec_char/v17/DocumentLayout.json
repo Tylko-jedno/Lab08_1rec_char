@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04388\\\u041B\u0430\u04318.1\\Char\\Lab08_1rec_char\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA781147-7077-41FC-832E-8C1F9D749A9A}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04388\\\u041B\u0430\u04318.1\\Char\\Lab08_1rec_char\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA781147-7077-41FC-832E-8C1F9D749A9A}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478EAAF7-23D5-472F-8B1C-85DD9855031B}|Lab08_1rec_char\\Lab08_1rec_char.vcxproj|C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04388\\\u041B\u0430\u04318.1\\Char\\Lab08_1rec_char\\Lab08_1rec_char\\Lab08_1rec_char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{478EAAF7-23D5-472F-8B1C-85DD9855031B}|Lab08_1rec_char\\Lab08_1rec_char.vcxproj|solutionrelative:Lab08_1rec_char\\Lab08_1rec_char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04388\\\u041B\u0430\u04318.1\\Char\\Lab08_1rec_char\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04388\\\u041B\u0430\u04318.1\\Char\\Lab08_1rec_char\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA0wAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T15:58:08.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab08_1rec_char.cpp",
+              "DocumentMoniker": "C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04388\\\u041B\u0430\u04318.1\\Char\\Lab08_1rec_char\\Lab08_1rec_char\\Lab08_1rec_char.cpp",
+              "RelativeDocumentMoniker": "Lab08_1rec_char\\Lab08_1rec_char.cpp",
+              "ToolTip": "C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04388\\\u041B\u0430\u04318.1\\Char\\Lab08_1rec_char\\Lab08_1rec_char\\Lab08_1rec_char.cpp",
+              "RelativeToolTip": "Lab08_1rec_char\\Lab08_1rec_char.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T15:43:58.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
